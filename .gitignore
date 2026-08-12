@@ -37,6 +37,8 @@ outputs/*.npz
 .env
 .gservices.json
 credentials.json
+*.token
+github_token.md
 
 # IDEs and Editors
 .vscode/
